@@ -1,8 +1,5 @@
 package com.wx;
-//我随便写的一个测试 git 
-//';';';';';';
-//修改后的版本、、
-//我有改了 哈哈啊
+//000444
 public class World {
 	private String s;
 	private String name;
