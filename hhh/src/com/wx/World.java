@@ -1,12 +1,12 @@
 package com.wx;
-//我随便写的一个测试 git 的类
-
+//我随便写的一个测试 git 
+//';';';';';';
 //修改后的版本、、
 //我有改了 哈哈啊
 public class World {
 	private String s;
 	private String name;
-	pribate int id;
+	private int id;
 	public void setS(String s){
 		this.s = s;
 	}
